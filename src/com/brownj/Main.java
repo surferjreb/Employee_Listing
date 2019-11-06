@@ -50,12 +50,13 @@ public class Main {
 	String[] lineElements;
 
 	try{
-        File file = new File("//home//captread//JavaProgramming//Employee_Listing"+
-                "employee.txt");
+        File file = new File("//home//captdread//JavaProgramming//Employee_Listing"+
+                "//employees.txt");
         Scanner fileIn = new Scanner(file);
-        lineElements = fileIn.nextLine().split("\\s");
+
 
         while(fileIn.hasNextLine()){
+            lineElements = fileIn.nextLine().split("\\s");
             for(String value : lineElements){
                 System.out.println(value);
             }

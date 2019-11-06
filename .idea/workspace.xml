@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18955be9-d52c-4502-be63-1ba29654a110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brownj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573026134708</updated>
       <workItem from="1573026136136" duration="11000" />
-      <workItem from="1573026846050" duration="3704000" />
+      <workItem from="1573026846050" duration="3946000" />
     </task>
+    <task id="LOCAL-00001" summary="began to build program">
+      <created>1573042565566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573042565566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="began to build program" />
+    <option name="LAST_COMMIT_MESSAGE" value="began to build program" />
   </component>
 </project>
