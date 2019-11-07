@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18955be9-d52c-4502-be63-1ba29654a110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main$Profession.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main$Profession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main$employeeRec.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee_Listing/com/brownj/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brownj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Main.java" afterDir="false" />
     </list>
@@ -64,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573026134708</updated>
       <workItem from="1573026136136" duration="11000" />
-      <workItem from="1573026846050" duration="3946000" />
+      <workItem from="1573026846050" duration="13035000" />
     </task>
     <task id="LOCAL-00001" summary="began to build program">
       <created>1573042565566</created>
@@ -73,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573042565566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="began to build program">
+      <created>1573042869298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573042869298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +105,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="began to build program" />
     <option name="LAST_COMMIT_MESSAGE" value="began to build program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/brownj/Main.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
